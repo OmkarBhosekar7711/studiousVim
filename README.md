@@ -1,2 +1,2 @@
 # studiousVim
-Need for Vim
+Need for Vim & Nvim
